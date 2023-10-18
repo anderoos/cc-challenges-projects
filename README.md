@@ -14,6 +14,7 @@ This repo holds all the practice projects from Codecademy, relating to:
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | Calculating Churn Rates                                | SQL - Engineering  | Calculating Churn rate for a fictional company Codeflix      |
 | Complete | Airline Trends                                         | Data Visualization | Visualizing airline trends                                   |
 | Complete | NBA Trends                                             | Data Analytics     | Analyze trends to explore associations between score, win rates,  |
 | Complete | EDA: Diagnosing Diabetes                               | Data Analytics     | Analyze diagnostic factors that affect diabetic outcomes in patients |
