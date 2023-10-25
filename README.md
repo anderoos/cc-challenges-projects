@@ -14,6 +14,9 @@ This repo holds all the practice projects from Codecademy, relating to:
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| In progress | Roller Coaster                                         | Data Analysis and Visualization, Python, Engineering     | Visualizing different roller coasters       |
+| Complete | Board Slides for FoodWheel                             | Data Analysis and Visualization      | Tracking business insights and consumer insights |
+| Complete | Constellations                                         | Visualization      | Mapping Orion star system                                    |
 | Complete | First-Last-Touch-Attribution                           | SQL - Engineering  | Finding first/ last touch attribution through different media channels |
 | Complete | Calculating Churn Rates                                | SQL - Engineering  | Calculating Churn rate for a fictional company Codeflix      |
 | Complete | Airline Trends                                         | Data Visualization | Visualizing airline trends                                   |
