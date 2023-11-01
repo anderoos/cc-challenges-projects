@@ -14,6 +14,8 @@ This repo holds all the practice projects from Codecademy, relating to:
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | Class Objects to Store Patient Information       | Python             | Refresher on class objects and OOP                           |
+| Complete | Intro to Tableau for Data Analysis                     | Data Analysis - BI | Learning to use Tableau to show the relationship between NYC trees and Income | 
 | Complete | Roller Coasters                                        | Data Analysis, Visualization, Python     | Visualizing different roller coasters using functions      |
 | Complete | Board Slides for FoodWheel                             | Data Analysis and Visualization      | Tracking business insights and consumer insights |
 | Complete | Constellations                                         | Visualization      | Mapping Orion star system                                    |
