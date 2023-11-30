@@ -10,10 +10,12 @@ This repo holds all the practice projects from Codecademy, relating to:
   - Science
   - Engineering
 - Machine Learning
+
 ## Projects and status
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | Transformating Data into Features                      | Python - ML        | Transforming categorical data, scaling data, working with datetime features |
 | Complete | Predicting Income with Social Data                     | R - ML             | Using R to uncover how age, education and gender plays a role in income | 
 | Complete | Predicting Credit Card Fraud                           | Python - ML        | Using Scikit-Learn LogisticRegression model to predict credit card fraud |
 | Complete | Class Objects to Store Patient Information             | Python             | Refresher on class objects and OOP                           |
