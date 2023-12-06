@@ -1,53 +1,69 @@
-# Data Practice Projects
-
+# Data Practice Projects from Codecademy
 ## Description
-This repo holds all the practice projects from Codecademy, relating to:
-- Math and Statistics
-- Python 3 and Conda
-- Data 
-  - Analytics
-  - Visualization
-  - Science
-  - Engineering
-- Machine Learning
+-----------------
+This repo holds all the practice projects from Codecademy, relating to the following courses:
+* Python
+  * Machine Learning/ AI Engineering
+  * Data Scientist: Machine Learning
+  * Analyze Data with R
+  * Data Science: Inference Specialist
+  * Data Science: Analytics
+  * Data Science Foundations
+  * ML and AI Fundamentals
+  * Master Statistics with Python
+  * Fundamental Math for Data Science
+  * Analyze Data with Python
+  * Cleaning Data with Python
+  * Visualize Data with Python
+  * Software Engineerin for Data Scientists
+  * Software Engineering for Python 
+  * Learn Statistics with Numpy
+  * Learn Python 3
+* SQL
+  * Analyze Data with SQL
+* Bash/ Terminal
+  * Learn Command Line
+* Javascript
+  * Learn Javascript
 
 ## Projects and status
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| Complete | Find the flag!                                         | Python - ML - Decision Trees | Generating decision trees using flag data            |
-| Complete | Cancer Classifier                                      | Python - ML - K Nearest Neighbors |  Using SkLearn's neighbors library, predict if a patient has breast cancer. |
-| Complete | Honey Production                                       | Python - ML - Linear Regression       | Using SkLearn's Linear model library, predict the production output of honey by 2050. |
-| Complete | Transformating Data into Features                      | Python - ML - Data Transformation       | Transforming categorical data, scaling data, working with datetime features |
-| Complete | Predicting Income with Social Data                     | R - ML             | Using R to uncover how age, education and gender plays a role in income | 
-| Complete | Predicting Credit Card Fraud                           | Python - ML - Logistic Regression      | Using Scikit-Learn LogisticRegression model to predict credit card fraud |
-| Complete | Class Objects to Store Patient Information             | Python             | Refresher on class objects and OOP                           |
-| Complete | Intro to Tableau for Data Analysis                     | Data Analysis - BI | Learning to use Tableau to show the relationship between NYC trees and Income | 
-| Complete | Roller Coasters                                        | Data Analysis, Visualization, Python     | Visualizing different roller coasters using functions      |
-| Complete | Board Slides for FoodWheel                             | Data Analysis and Visualization      | Tracking business insights and consumer insights |
-| Complete | Constellations                                         | Visualization      | Mapping Orion star system                                    |
-| Complete | First-Last-Touch-Attribution                           | SQL - Engineering  | Finding first/ last touch attribution through different media channels |
-| Complete | Calculating Churn Rates                                | SQL - Engineering  | Calculating Churn rate for a fictional company Codeflix      |
-| Complete | Airline Trends                                         | Data Visualization | Visualizing airline trends                                   |
-| Complete | NBA Trends                                             | Data Analytics     | Analyze trends to explore associations between score, win rates,  |
-| Complete | EDA: Diagnosing Diabetes                               | Data Analytics     | Analyze diagnostic factors that affect diabetic outcomes in patients |
-| Complete | Exploring Mushrooms                                    | Data Analytics     | Summarizing nominal characteristics of mushrooms             |
-| Complete | Analyzing Internet Use with Python                     | Data Analytics     | Analyzing internet usage rates across the world between 1990 and 2020 using aggregation techniques |
-| Complete | Page Visits Funnel                                     | Data Analytics     | Merging complimentary datasets to determine the proportion of users that complete their purchses in a fictional t-shirt ecommerce website.  |
-| Complete | Product Defects                                        | Data Analytics     | Using distributions to predict the number of product defects in a given day. |
-| Complete | Analyzing High-Speed Railway Delays                    | Data Analytics     | Using EDA and aggregation methods, determining how weather impacts railway times. |
-| Complete | Summarizing Automobile Evaluation Data                 | Data Analytics     | Summarizing categorical data of cat manufacturers            |
-| Complete | Comparing Ad Effectiveness with AB Testing with Python | Data Analytics     | AB Testing Different Ads                                     |
-| Complete | Concurrent Programming                                 | Python             |                                                              |
-| Complete | Analyze Electric Vehicle Stations in Python            | Data Analytics     | Summarizing private and public charging stations in the US   |
-| Complete | Aisha’s Greetings                                      | Python             | Using context managers and constructors to generate card messages |
-| Complete | ATM Logging                                            | Python             | Error Logging practice                                       |
-| Complete | Basta Faloozin                                         | Python             | Constructor practice                                         |
-| Complete | Crunchie Munchies                                      | Python             |                                                              |
-| Complete | Election Results                                       | Python             |                                                              |
-| Complete | Functional Programming                                 | Python             |                                                              |
-| Complete | School Catalogue                                       | Python             | Constructor Practice                                         |
-| Complete | Scrabble                                               | Python             |                                                              |
-| Complete | Boredless Tourist                                      | Python             | OOP Practice                                                 |
-| Complete | Thread Shed                                            | Python             |                                                              |
-| Complete | Building build script                                  | Python             |                                                              |
+| Complete | [Find the flag!](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/find_the_flag.ipynb)   | Python - ML - Decision Trees | Generating decision trees using flag data            |
+| Complete | [Cancer Classifier ](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/cancer_classifier.py)          | Python - ML - K Nearest Neighbors |  Using SkLearn's neighbors library, predict if a patient has breast cancer. |
+| Complete | [Honey Production ](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/honey_production.py)  | Python - ML - Linear Regression       | Using SkLearn's Linear model library, predict the production output of honey by 2050. |
+| Complete | [Transformating Data into Features](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/data_transformation_features.py)  | Python - ML - Data Transformation       | Transforming categorical data, scaling data, working with datetime features |
+| Complete | [Predicting Income with Social Data](https://github.com/anderoos/codecademy-practice-projects/tree/main/R/predicting-income-social) | R - ML             | Using R to uncover how age, education and gender plays a role in income | 
+| Complete | [Predicting Credit Card Fraud](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/predicting_creditcard_fraud.py)  | Python - ML - Logistic Regression      | Using Scikit-Learn LogisticRegression model to predict credit card fraud |
+| Complete | [Class Objects to Store Patient Information](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/patient_classes.py)| Python - ML            | Refresher on class objects and OOP                           |
+| Complete | [True probability of coin flip](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/true-probability-coin-flip.ipynb)                                  | Python - Probability | Visualizing the true probability of a coin flip | 
+| Complete | [Intro to Tableau for Data Analysis](https://github.com/anderoos/codecademy-practice-projects/tree/main/Tableau/Learn-Tableau-for-Data-Viz-main)  | Data Analysis - BI | Learning to use Tableau to show the relationship between NYC trees and Income | 
+| Complete | [Roller Coasters ](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Roller%20Coaster) | Data Analysis, Visualization, Python     | Visualizing different roller coasters using functions      |
+| Complete | [Board Slides for FoodWheel](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/foodwheel)  | Data Analysis and Visualization      | Tracking business insights and consumer insights |
+| Complete | [Constellations](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/orion-project)                                         | Visualization      | Mapping Orion star system                                    |
+| Complete | [First-Last-Touch-Attribution](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-first-last-touch-attribution.sql)                           | SQL - Engineering  | Finding first/ last touch attribution through different media channels |
+| Complete | [Calculating Churn Rates](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-churn-rate.sql)                                | SQL - Engineering  | Calculating Churn rate for a fictional company Codeflix      |
+| Complete | [Ad effectiveness with AB Testing](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-ad-effectiveness-ab-testing.ipynb)                        | Data Analytics - AB Testing | AB Testing for conversion rate | 
+| Complete | [Airline Trends](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Airline%20Analysis) | Data Visualization | Visualizing airline trends                                   |
+| Complete | [NBA Trends](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Codecademy_NBA_Trends_Project)     | Data Analytics     | Analyze trends to explore associations between score, win rates,  |
+| Complete | [EDA: Diagnosing Diabetes](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/EDA%20Diagnosing%20Diabetes) Data Analytics - Exploratory Data Analysis    | Analyze diagnostic factors that affect diabetic outcomes in patients |
+| Complete | [Exploring Mushrooms](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Exploring%20Mushrooms) | Data Analytics     | Summarizing nominal characteristics of mushrooms             |
+| Complete | [Analyzing Internet Use with Python](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/internet-usage-by-country)  | Data Analytics     | Analyzing internet usage rates across the world between 1990 and 2020 using aggregation techniques |
+| Complete | [Page Visits Funnel](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Page_Visits_Funnel_Project)  | Data Analytics - Usage Funnel    | Merging complimentary datasets to determine the proportion of users that complete their purchses in a fictional t-shirt ecommerce website.  |
+| Complete | [Product Defects](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/product-defects)    | Data Analytics     | Using distributions to predict the number of product defects in a given day. |
+| Complete | [Analyzing High-Speed Railway Delays](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/subway-delays-weather)  | Data Analytics     | Using EDA and aggregation methods, determining how weather impacts railway times. |
+| Complete | [Summarizing Automobile Evaluation Data](https://github.com/anderoos/codecademy-practice-projects/tree/main/Python/Summarizing%20Automobile%20Evaluation%20Data)  | Data Analytics     | Summarizing categorical data of cat manufacturers            |
+| Complete | [Concurrent Programming](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-concurrent-programming)                                 | Python - Concurrent Programming         | Learning concurrent programming                      |
+| Complete | [Analyze Electric Vehicle Stations in Python](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-ev-charging-stations.ipynb)            | Data Analytics - Summaries    | Summarizing private and public charging stations in the US in Jupyter|
+| Complete | [Aisha’s Greetings](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-aishas-greetings.py)                                      | Python - Context Manageres        | Using context managers and constructors to generate card messages |
+| Complete | [ATM Logging](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-ATM-logging.py)                                            | Python - Error Logging            | Error Logging practice                                       |
+| Complete | [Boredless Tourist](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-the-boredless-tourist.py) | Python - Generators            | OOP Practice             |
+| Complete | [Basta Faloozin](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-basta-fazoolin.py)                                         | Python - Classes and Constructors            | Constructor practice                                         |
+| Complete | [Crunchie Munchies](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-crunchiemunchies.py)                                      | Python - Basic Statistics            | Basic statistics with numpy                                         |
+| Complete | [Election Results](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-election-results.py)                                       | Python - Basic Visualizations         | Basic data visualizations with pyplot             |
+| Complete | [School Catalogue](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-school-catalogue.py)                                      | Python - Classes            | Practice with constructors and dunder methods        |
+| Complete | [Functional Programming](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-functional-programming.py)                                 | Python - Functions          | Learning how to write basic functions      |
+| Complete | [Scrabble](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-scrabble.py)                  | Python - Functions            | Learning basic function syntax                |
+| Complete | [Thread Shed](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-thread-shed.py) | Python - Loops and conditional           | Practice with loops                         |
+| Complete | [Building build script](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/codecademy-building-build-script.sh)                                 | Shell scripts             |                                                              |
