@@ -15,9 +15,12 @@ This repo holds all the practice projects from Codecademy, relating to:
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| Complete | Transformating Data into Features                      | Python - ML        | Transforming categorical data, scaling data, working with datetime features |
+| Complete | Find the flag!                                         | Python - ML - Decision Trees | Generating decision trees using flag data            |
+| Complete | Cancer Classifier                                      | Python - ML - K Nearest Neighbors |  Using SkLearn's neighbors library, predict if a patient has breast cancer. |
+| Complete | Honey Production                                       | Python - ML - Linear Regression       | Using SkLearn's Linear model library, predict the production output of honey by 2050. |
+| Complete | Transformating Data into Features                      | Python - ML - Data Transformation       | Transforming categorical data, scaling data, working with datetime features |
 | Complete | Predicting Income with Social Data                     | R - ML             | Using R to uncover how age, education and gender plays a role in income | 
-| Complete | Predicting Credit Card Fraud                           | Python - ML        | Using Scikit-Learn LogisticRegression model to predict credit card fraud |
+| Complete | Predicting Credit Card Fraud                           | Python - ML - Logistic Regression      | Using Scikit-Learn LogisticRegression model to predict credit card fraud |
 | Complete | Class Objects to Store Patient Information             | Python             | Refresher on class objects and OOP                           |
 | Complete | Intro to Tableau for Data Analysis                     | Data Analysis - BI | Learning to use Tableau to show the relationship between NYC trees and Income | 
 | Complete | Roller Coasters                                        | Data Analysis, Visualization, Python     | Visualizing different roller coasters using functions      |
