@@ -30,6 +30,7 @@ This repo holds all the practice projects from Codecademy, relating to the follo
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | [Wrapper Methods](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/wrapper_methods.py) | Python - ML - Wrapper Methods | Determining which feature selection method improves the obesity prediction model |
 | Complete | [Find the flag!](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/find_the_flag.ipynb)   | Python - ML - Decision Trees | Generating decision trees using flag data            |
 | Complete | [Cancer Classifier ](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/cancer_classifier.py)          | Python - ML - K Nearest Neighbors |  Using SkLearn's neighbors library, predict if a patient has breast cancer. |
 | Complete | [Honey Production ](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/honey_production.py)  | Python - ML - Linear Regression       | Using SkLearn's Linear model library, predict the production output of honey by 2050. |
