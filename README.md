@@ -30,6 +30,7 @@ This repo holds all the practice projects from Codecademy, relating to the follo
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | [Predict whether an individual makes over $50K](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/random-forest.py) | Python - ML - Random Forests | Using Census Data, predicting if a person makes more than 50K annually | 
 | Complete | [Classifying Raisins with Hyperparameter Tuning](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/classifying-raisins.py) | Python - ML - Hyperparameter Tuning | Classifying different grain raisin types using Murat Koklu's Kaggle dataset | 
 | Complete | [Predicting Wine Quality](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/predicting-wine-quality.py) | Python - ML - Logisitic Regression with CV | Using data from UCI's Machine Learning Repository, predicting wine quality with regularization techniques with logisitc regression |
 | Complete | [Predict Baseball Strikezones](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/predict-baseball-strikezones) | Python - ML - Support Vector Machines | Using a baseball dataset to find the decision boundary of a strikezone | 
