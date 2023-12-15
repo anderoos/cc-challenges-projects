@@ -1,0 +1,67 @@
+<html>
+<head>
+</head>
+  
+<body onload="InitThis();">
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    
+  <script type="text/javascript" src="JsCode.js"></script>
+    <div align="center">
+      
+        <canvas id="myCanvas" width="80" height="80" style="border:2px solid black"></canvas>
+        
+      <canvas id="myCanvas2" width="80" height="80" style="border:2px solid black"></canvas>
+      
+      <canvas id="myCanvas3" width="80" height="80" style="border:2px solid black"></canvas>
+      
+      <canvas id="myCanvas4" width="80" height="80" style="border:2px solid black"></canvas>
+      
+        <br /><br />
+        <button onclick="javascript:clearArea();return false;">Clear Area</button>
+        Line width : <select id="selWidth">
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="14" selected="selected">14</option>
+            <option value="18">18</option>
+        </select>
+        Color : <select id="selColor">
+            <option value="#141c3a">black</option>
+            <option value="#6400e4">purple</option>
+            <option value="#4b35ef" selected="selected">royal-blue</option>
+            <option value="#fa4359">red</option>
+            <option value="#37c3be">mint</option>
+            <option value="#ffc107">yellow</option>
+            <option value="#cccccc">gray</option>
+        </select>
+         
+      <button onclick="javascript:array();return false;">Get Array</button>
+
+      
+    </div>
+ 
+    <pre id="opening_bracket">
+  </pre>
+  
+   <pre id="display">
+   </pre>
+  
+  <pre id="display2">
+  </pre>
+  
+   <pre id="display3">
+  </pre>
+  
+   <pre id="display4">
+  </pre>
+  
+  <pre id="closing_bracket">
+  </pre>
+  
+  
+  
+
+</body>
+</html>
