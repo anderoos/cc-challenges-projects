@@ -30,6 +30,7 @@ This repo holds all the practice projects from Codecademy, relating to the follo
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | [Perceptron](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/perceptron.py) | Python - ML | Using a perceptron to model after and, or and xor logic gates. | 
 | Complete | [School Catalog](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/school-catalog-refersher-1.py) | Python - OOP | Refresher on OOP | 
 | Complete | [Building ML Pipelines](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/pipelines.py) | Python - ML - Pipelines | Using UCI's bone marrow data to build a pipeline including preprocessing, cleaning and selecting a classifier |
 | Complete | [Predict whether an individual makes over $50K](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/boosting.py) | Python - ML - Boosting | Using Census Data, predicting if a person makes more than 50K annually | 
