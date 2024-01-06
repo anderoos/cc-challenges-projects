@@ -30,7 +30,7 @@ This repo holds all the practice projects from Codecademy, relating to the follo
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| Complete | [Deep Learning Regression with Admissions Data](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/deep-learning-regression-admissions/) | Mini-project focused on building a deep learning regression model to predict college admission chance based on different features |
+| Complete | [Deep Learning Regression with Admissions Data](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/deep-learning-regression-admissions/) | Python - Deep Learning | Mini-project focused on building a deep learning regression model to predict college admission chance based on different features |
 | Complete | [Implementing Neural Networks](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/implementing_neural_networks.py) | Python - Deep Learning | Utilizing a neural network to predict life expectancy using WHO Global Health data |
 | Complete | [Book Recommender](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/book-recommender.py) | Python - ML | Using suprise library, building a recommendation algorithm for book readers | 
 | Complete | [Perceptron](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/perceptron.py) | Python - ML | Using a perceptron to model after and, or and xor logic gates. | 
