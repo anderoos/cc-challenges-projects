@@ -1,7 +1,7 @@
 # Data Practice Projects from Codecademy
 ## Description
 -----------------
-This repo holds all the practice projects from Codecademy, relating to the following courses:
+This repo holds all the challenge and mini projects from Codecademy, relating to the following courses:
 * Python
   * Machine Learning/ AI Engineering
   * Data Scientist: Machine Learning
