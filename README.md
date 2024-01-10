@@ -3,6 +3,8 @@
 -----------------
 This repo holds all the challenge and mini projects from Codecademy, relating to the following courses:
 * Python
+  * Data Science: Natural Language Processing
+  * Deep Learning with TensorFlow
   * Machine Learning/ AI Engineering
   * Data Scientist: Machine Learning
   * Analyze Data with R
@@ -30,10 +32,12 @@ This repo holds all the challenge and mini projects from Codecademy, relating to
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| Complete | [Deep Learning Regression with Admissions Data](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/deep-learning-regression-admissions/) | Python - Deep Learning | Mini-project focused on building a deep learning regression model to predict college admission chance based on different features |
-| Complete | [Implementing Neural Networks](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/implementing_neural_networks.py) | Python - Deep Learning | Utilizing a neural network to predict life expectancy using WHO Global Health data |
-| Complete | [Book Recommender](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/book-recommender.py) | Python - ML | Using suprise library, building a recommendation algorithm for book readers | 
-| Complete | [Perceptron](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/perceptron.py) | Python - ML | Using a perceptron to model after and, or and xor logic gates. | 
+| Complete | [Classifying Galaxies with Conv Neural Networks](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/classifying-galaxies-with-cnn) | Python - Deep Learning | Using a dataset of 10000 (128x128, 3) images of galaxies, build a classification model to predict what type of galaxy the corrosponding image is. |
+| Complete | [Deep Learning Classification with Heart Disease Data](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/classification.py/) | Python - Deep Learniing | Using a dataset from kaggle to predict the survival of patients with heart disease based on patient characteristics and serum panel | 
+| Complete | [Deep Learning Regression with Admissions Data](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/deep-learning-regression-admissions/) | Python - Deep Learning | Mini-project focused on building a deep learning regression model to predict college admission chance based on different features |
+| Complete | [Implementing Neural Networks](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/implementing_neural_networks.py) | Python - Deep Learning | Utilizing a neural network to predict life expectancy using WHO Global Health data |
+| Complete | [Book Recommender](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/book-recommender.py) | Python - ML | Using suprise library, building a recommendation algorithm for book readers | 
+| Complete | [Perceptron](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/perceptron.py) | Python - ML | Using a perceptron to model after and, or and xor logic gates. | 
 | Complete | [School Catalog](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python/school-catalog-refersher-1.py) | Python - OOP | Refresher on OOP | 
 | Complete | [Building ML Pipelines](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/pipelines.py) | Python - ML - Pipelines | Using UCI's bone marrow data to build a pipeline including preprocessing, cleaning and selecting a classifier |
 | Complete | [Predict whether an individual makes over $50K](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/boosting.py) | Python - ML - Boosting | Using Census Data, predicting if a person makes more than 50K annually | 
