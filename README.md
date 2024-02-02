@@ -32,6 +32,7 @@ This repo holds all the challenge and mini projects from Codecademy, relating to
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
 |----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+| Complete | [Predicting Mystery Postcard](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python-NLP/mystery-friend) | Python - NLP | Using NBC to predict which friend sent a mystery letter | 
 | Complete | [Discover Insights from Classic Texts](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python-NLP/insights-from-classic-text) | Python - NLP | Noun Phrase Parsing and Verb Phrase Parsing to analyze classic texts |
 | Complete | [Analyze Common Crawl Data with PySpark](https://github.com/anderoos/codecademy-practice-projects/blob/main/PySpark/analyze_crawl_data_pyspark.ipynb) | Python - Big Data with PySpark | Introduction to PySpark Queries and RDD | 
 | Complete | [Classifying Galaxies with Conv Neural Networks](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python_ML/classifying-galaxies-with-cnn) | Python - Deep Learning | Using a dataset of 10000 (128x128, 3) images of galaxies, build a classification model to predict what type of galaxy the corrosponding image is. |
