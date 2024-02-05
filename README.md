@@ -31,7 +31,8 @@ This repo holds all the challenge and mini projects from Codecademy, relating to
 ## Projects and status
 Projects are not listed in any particular order.
 | Status   | Project Title                                          | Category           | Description                                                  |
-|----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------|
+|----------|--------------------------------------------------------|--------------------|--------------------------------------------------------------| 
+| Complete | [News Analysis](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python-NLP/news_analysis) | Python - NLP | Using tf-idf to analyze article contents and uncover the terms that best describe each article |
 | Complete | [Predicting Mystery Postcard](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python-NLP/mystery-friend) | Python - NLP | Using NBC to predict which friend sent a mystery letter | 
 | Complete | [Discover Insights from Classic Texts](https://github.com/anderoos/codecademy-practice-projects/blob/main/Python-NLP/insights-from-classic-text) | Python - NLP | Noun Phrase Parsing and Verb Phrase Parsing to analyze classic texts |
 | Complete | [Analyze Common Crawl Data with PySpark](https://github.com/anderoos/codecademy-practice-projects/blob/main/PySpark/analyze_crawl_data_pyspark.ipynb) | Python - Big Data with PySpark | Introduction to PySpark Queries and RDD | 
